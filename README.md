@@ -53,3 +53,20 @@ This project demonstrates advanced front-end development skills, utilizing dynam
 ### 🔑 Demo Credentials
 - **Username:** `admin`
 - **Password:** `1234`
+
+---
+
+## 📂 Project Structure
+```text
+/
+├── index.html          # Login Page
+├── dashboard.html      # Main Overview (Charts & KPIs)
+├── cars.html           # Vehicle Inventory Management
+├── rentals.html        # Rental Transaction Logs
+├── customers.html      # Customer Database
+├── maintenance.html    # Service & Repair Logs
+├── profile.html        # Admin Profile Settings
+├── settings.html       # System Configuration (Theme/Notifications)
+├── style.css           # Custom Styles & Theming
+├── script.js           # Core Logic (Auth, Data, Charts)
+└── images/             # Car & User avatars
